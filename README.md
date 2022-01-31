@@ -1,2 +1,2 @@
 # GreenKart
-Selenium project implemented during the Udemy course
+Selenium project implemented during a course
